@@ -1,5 +1,4 @@
 #! /bin/bash
-export $PATH=$PATH:./src
 
 count_file() {
 # usage: ./count_file file_list tb_name
